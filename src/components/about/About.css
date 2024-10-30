@@ -1,0 +1,9 @@
+.aboutVideo {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    filter: brightness(0.3);
+}
+
+/* Responsive design */
+@media (max-width: 768px) {}
