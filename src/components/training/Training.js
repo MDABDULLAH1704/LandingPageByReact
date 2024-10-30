@@ -5,7 +5,7 @@ const Training = () => {
     return (
         <section className='section-training' id='section-training'>
             <div className='training'>
-                <h2>Welcome to Fitness GYM Training!</h2>
+                <h2>Welcome to Fitness GYM Training! </h2>
                 <p>At Fitness GYM, we empower you to reach your fitness goals with personalized training options. Whether you want to build strength, boost endurance, or improve your health, we've got you covered!</p>
 
                 <h2>Personal Training</h2>
