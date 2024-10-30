@@ -1,3 +1,12 @@
+import { Link } from 'react-router-dom';
+
+// In your component
+<Link to="/#target-section">Scroll to Section</Link>
+
+
+
+
+
 # React Boilerplate
 
 The **React Boilerplate** is designed to simplify and enhance the deployment process for React.js applications directly on the edge of the network.
