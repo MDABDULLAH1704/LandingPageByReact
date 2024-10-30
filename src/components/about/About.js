@@ -58,8 +58,6 @@ const About = () => {
 
                         <button className='signUp-btn'>Sign Up</button>
                     </div>
-
-
                 </div>
             </div>
         </section>
