@@ -5,9 +5,82 @@
     filter: brightness(0.2);
 }
 
+.about {
+    display: flex;
+    /* Ensures left and right are aligned */
+}
+
+.aboutLeft {
+    position: relative;
+    flex: 1;
+    /* Allows it to take full width */
+}
+
+.aboutRight {
+    padding: 0px 150px 0px 150px;
+    position: absolute;
+    top: 120px;
+    left: 20px;
+}
+
+.aboutRight h2 {
+    font-size: 22px;
+    color: var(--orange-color);
+}
+
+.aboutRight p {
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+.signUp-btn {
+    margin-top: 10px;
+    padding: 4px 14px;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 5px;
+    border: none;
+    background-color: var(--orange-color);
+    cursor: pointer;
+}
+
 /* Responsive design */
 @media (max-width: 768px) {
     .aboutVideo {
-        filter: brightness(0.6);
+        filter: brightness(0.3);
+    }
+
+    .aboutRight {
+        padding: 0px 70px 0px 70px;
+        top: 100px;
+    }
+
+    .aboutRight h2 {
+        font-size: 21px;
+    }
+
+    .aboutRight p {
+        font-size: 14.5px;
+        margin-bottom: 9px;
+    }
+}
+
+@media (max-width: 480px) {
+    .aboutVideo {
+        filter: brightness(0.5);
+    }
+
+    .aboutRight {
+        padding: 0px 30px 0px 30px;
+        top: 60px;
+    }
+
+    .aboutRight h2 {
+        font-size: 18px;
+    }
+
+    .aboutRight p {
+        font-size: 12.5px;
+        margin-bottom: 6px;
     }
 }

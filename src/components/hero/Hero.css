@@ -36,6 +36,17 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+.start-btn {
+    margin-top: 20px;
+    padding: 4px 14px;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 5px;
+    border: none;
+    background-color: var(--orange-color);
+    cursor: pointer;
+}
+
 /* Responsive design */
 @media (max-width: 768px) {
     .hero {
@@ -84,12 +95,18 @@
 
     .heroLeft h1 {
         font-size: 21px;
-        margin-bottom: 20px;
+        margin-bottom: 15px;
         text-align: center;
     }
 
     .heroLeft p {
         font-size: 13px;
         text-align: center;
+    }
+
+    .heroLeft button {
+        display: block;
+        margin: 0 auto;
+        margin-top: 15px;
     }
 }
