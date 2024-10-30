@@ -14,6 +14,15 @@
     width: 20%;
 }
 
+.heroRight img {
+    border-radius: 40%;
+    opacity: 0.5;
+    box-shadow: inset 0 0 50px rgb(150, 150, 150),
+        /* Inner shadow */
+        0 0 50px rgb(200, 200, 200);
+    /* Outer shadow */
+}
+
 .heroLeft h1 {
     font-size: 32px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -63,6 +72,10 @@
 
     .heroRight {
         width: 60%;
+    }
+
+    .heroRight img {
+        opacity: 0.7;
     }
 
     .heroLeft h1 {
