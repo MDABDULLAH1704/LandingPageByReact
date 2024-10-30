@@ -2,8 +2,12 @@
     width: 100%;
     height: auto;
     border-radius: 10px;
-    filter: brightness(0.3);
+    filter: brightness(0.2);
 }
 
 /* Responsive design */
-@media (max-width: 768px) {}
+@media (max-width: 768px) {
+    .aboutVideo {
+        filter: brightness(0.6);
+    }
+}
