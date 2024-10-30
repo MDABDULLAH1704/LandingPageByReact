@@ -18,9 +18,7 @@
     border-radius: 40%;
     opacity: 0.5;
     box-shadow: inset 0 0 50px rgb(150, 150, 150),
-        /* Inner shadow */
         0 0 50px rgb(200, 200, 200);
-    /* Outer shadow */
 }
 
 .heroLeft h1 {
