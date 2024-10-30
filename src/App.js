@@ -1,9 +1,10 @@
 import "./assets/main.css";
+import Home from "./pages/Home";
 
 function App() {
   return (
     <>
-      hello world 12345 !
+      <Home />
     </>
   );
 }

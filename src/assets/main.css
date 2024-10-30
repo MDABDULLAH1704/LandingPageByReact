@@ -1,1 +1,14 @@
 @import './base.css';
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* CSS Variables */
+:root {
+    --white-color: #FFFFFF;
+    --black-color: #000000;
+    --orange-color: rgb(255, 179, 38);
+}

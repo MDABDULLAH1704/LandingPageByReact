@@ -1,0 +1,35 @@
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 100px;
+    height: 85px;
+}
+
+.navbarLeft img {
+    cursor: pointer;
+}
+
+.navbarRight {
+    display: flex;
+    gap: 28px;
+    font-size: 14px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbarRight div {
+    cursor: pointer;
+    transition: color 0.2s ease-in, transform 0.2s ease-in;
+}
+
+.navbarRight div:hover {
+    color: var(--orange-color);
+    transform: scale(1.12);
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .navbar {
+        display: none;
+    }
+}
