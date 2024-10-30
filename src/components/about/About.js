@@ -53,7 +53,7 @@ const About = () => {
                         <h2>Our Space</h2>
                         <p>Located in Motihari Bihar, our modern facility features top-notch equipment and a variety of classes to keep your workouts fresh and exciting.</p>
 
-                        <h2>Join Us!</h2>
+                        <h2>Join Us! </h2>
                         <p>Become part of our vibrant community and let's achieve your fitness goals together! Ready to get started? Sign up today!</p>
 
                         <button className='signUp-btn'>Sign Up</button>
