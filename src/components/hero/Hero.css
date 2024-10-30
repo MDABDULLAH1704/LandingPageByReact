@@ -27,6 +27,10 @@
     margin-bottom: 20px;
 }
 
+.heroLeft h1 span {
+    color: var(--orange-color);
+}
+
 .heroLeft p {
     font-size: 16px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -58,7 +62,7 @@
 
 @media (max-width: 480px) {
     .hero {
-        margin-top: 80px;
+        margin-top: 90px;
         gap: 0;
         flex-wrap: wrap;
         flex-direction: column-reverse;
@@ -83,7 +87,7 @@
     }
 
     .heroLeft p {
-        font-size: 12px;
+        font-size: 13px;
         text-align: center;
     }
 }
