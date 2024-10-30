@@ -16,7 +16,9 @@ const About = () => {
                     />
                 </div>
 
-                <div className="aboutRight"></div>
+                <div className="aboutRight">
+                      Video            
+                </div>
             </div>
         </section>
     )
