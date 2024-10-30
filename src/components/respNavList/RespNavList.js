@@ -14,7 +14,7 @@ const RespNavList = ({ closeMenu }) => {
         if (aboutSection) {
             aboutSection.scrollIntoView({ behavior: 'smooth' });
             closeMenu(); // Close menu when ABOUT is clicked
-        }
+        } 
     };
 
     // scrollToAbout function
