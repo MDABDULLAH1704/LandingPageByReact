@@ -41,7 +41,7 @@ const About = () => {
                 </div>
 
                 <div className="aboutRight">
-                    
+                     About 
                 </div>
             </div>
         </section>
