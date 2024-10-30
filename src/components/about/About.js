@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from 'react'
 import './About.css'
 import gymVideo from '../../assets/gym_video.mp4'
-import gymVideo768 from '../../assets/gym_video768.mp4'
-import gymVideo480 from '../../assets/gym_video480.mp4'
+import gym2Video from '../../assets/gym2_video.mp4'
+import gym3Video from '../../assets/gym3_video.mp4'
 
 const About = () => {
     const [videoSource, setVideoSource] = useState(gymVideo);
@@ -10,9 +10,9 @@ const About = () => {
     // handleResize function
     const handleResize = () => {
         if (window.innerWidth <= 480) {
-            setVideoSource(gymVideo480);
+            setVideoSource(gym3Video);
         } else if (window.innerWidth <= 768) {
-            setVideoSource(gymVideo768);
+            setVideoSource(gym2Video);
         } else {
             setVideoSource(gymVideo);
         }
