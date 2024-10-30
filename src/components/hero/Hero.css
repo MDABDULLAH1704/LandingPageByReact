@@ -79,9 +79,11 @@
     .heroLeft h1 {
         font-size: 21px;
         margin-bottom: 20px;
+        text-align: center;
     }
 
     .heroLeft p {
         font-size: 12px;
+        text-align: center;
     }
 }
