@@ -13,7 +13,7 @@ const Testimonials = () => {
 
     return (
         <div className='testimonials' id='section-testimonials'>
-            <h2>Customer Feedback </h2> 
+            <h2>Customer Feedback</h2> 
 
             <div className="testimonials-div" data-aos="zoom-in">
                 <div data-aos="fade" data-aos-delay="300">
