@@ -22,12 +22,12 @@ const Gallery = () => {
             <h2> Our Gallery </h2>
 
             <div className="gallery-div">
-                <div><img src={gallery1} alt="Image" data-aos="fade-up" data-aos-delay="200" /></div>
-                <div><img src={gallery4} alt="Image" data-aos="fade-up" data-aos-delay="200" /></div>
-                <div><img src={gallery2} alt="Image" data-aos="fade-up" data-aos-delay="200" /></div>
-                <div><img src={gallery5} alt="Image" data-aos="fade-up" data-aos-delay="200" /></div>
-                <div><img src={gallery3} alt="Image" data-aos="fade-up" data-aos-delay="200" /></div>
-                <div><img src={gallery6} alt="Image" data-aos="fade-up" data-aos-delay="200" /></div>
+                <div><img src={gallery1}  data-aos="fade-up" data-aos-delay="200" /></div>
+                <div><img src={gallery4}  data-aos="fade-up" data-aos-delay="200" /></div>
+                <div><img src={gallery2}  data-aos="fade-up" data-aos-delay="200" /></div>
+                <div><img src={gallery5}  data-aos="fade-up" data-aos-delay="200" /></div>
+                <div><img src={gallery3}  data-aos="fade-up" data-aos-delay="200" /></div>
+                <div><img src={gallery6}  data-aos="fade-up" data-aos-delay="200" /></div>
             </div>
         </div>
     )
