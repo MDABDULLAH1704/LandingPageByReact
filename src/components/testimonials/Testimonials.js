@@ -22,7 +22,7 @@ const Testimonials = () => {
                 </div>
 
                 <div data-aos="fade" data-aos-delay="300">
-                    <p>"As someone who was new to fitness, I was nervous about starting my journey. But the team at Fitness GYM made it easy and enjoyable. The environment is welcoming, and I appreciate how the trainers focus on individual needs. I've seen amazing progress in just a few months!"</p>
+                    <p>"As someone  who was new to fitness, I was nervous about starting my journey. But the team at Fitness GYM made it easy and enjoyable. The environment is welcoming, and I appreciate how the trainers focus on individual needs. I've seen amazing progress in just a few months!"</p>
                     <h3>Raj K</h3>
                 </div>
 
