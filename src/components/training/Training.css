@@ -1,9 +1,10 @@
 .training {
     background-color: white;
-    padding: 80px 180px;
     margin-top: 160px;
     margin-left: 50px;
     margin-right: 50px;
+    padding: 80px 180px;
+    padding-top: 90px;
     border-radius: 20px;
 }
 

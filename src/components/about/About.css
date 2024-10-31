@@ -1,3 +1,4 @@
+
 .aboutVideo {
     width: 100%;
     height: auto;
@@ -20,7 +21,7 @@
 .aboutRight {
     padding: 0px 150px 0px 150px;
     position: absolute;
-    top: 120px;
+    top: 80px;
     left: 20px;
 }
 
