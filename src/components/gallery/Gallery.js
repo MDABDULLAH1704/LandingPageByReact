@@ -21,7 +21,7 @@ const Gallery = () => {
         <div className='gallery' id='section-gallery'>
             <h2> Our Gallery </h2>
 
-            <div className="gallery-div" >
+            <div className="gallery-div">
                 <div><img src={gallery1} alt="Image" data-aos="fade-up" data-aos-delay="200" /></div>
                 <div><img src={gallery4} alt="Image" data-aos="fade-up" data-aos-delay="200" /></div>
                 <div><img src={gallery2} alt="Image" data-aos="fade-up" data-aos-delay="200" /></div>
