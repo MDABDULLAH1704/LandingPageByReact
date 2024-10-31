@@ -1,5 +1,5 @@
 .gallery {
-    margin-top: 80px;
+    margin-top: 30px;
     padding-top: 78px;
 }
 
@@ -35,3 +35,9 @@
 
 /* Responsive design */
 @media (max-width: 768px) {}
+
+@media (max-width: 480px) {
+    .section-gallery {
+        height: 195vh;
+    }
+}

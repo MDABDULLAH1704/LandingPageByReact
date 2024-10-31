@@ -1,5 +1,9 @@
+#section-hero {
+    height: 80vh;
+}
+
 .hero {
-    margin-top: 120px;
+    margin-top: 80px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -50,7 +54,7 @@
 /* Responsive design */
 @media (max-width: 768px) {
     .hero {
-        margin-top: 120px;
+        margin-top: 90px;
         gap: 10px;
     }
 
@@ -73,7 +77,7 @@
 
 @media (max-width: 480px) {
     .hero {
-        margin-top: 90px;
+        margin-top: 60px;
         gap: 0;
         flex-wrap: wrap;
         flex-direction: column-reverse;
