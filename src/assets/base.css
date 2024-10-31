@@ -4,7 +4,3 @@ body {
     background-color: var(--black-color);
     color: var(--white-color);
 }
-
-section {
-    height: 90vh;
-}

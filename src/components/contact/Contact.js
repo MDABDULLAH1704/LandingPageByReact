@@ -16,15 +16,9 @@ const Contact = () => {
     }, []);
 
     return (
-<<<<<<< HEAD
         <>
             <div className='contact' id='section-contact'>
                 <h2> Contact Us </h2>
-=======
-        <section className='section-contact' id='section-contact'>
-            <div className='contact'>
-                <h2>Contact Us </h2>
->>>>>>> f4d02e5d0d96689bea24b7dfcb21bf16cf1c61c8
 
                 <div className="contact-div" data-aos="zoom-in">
                     <p><span><FaMapMarkerAlt /></span> 321 Steel City Way, Lafayette</p>

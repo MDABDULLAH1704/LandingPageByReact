@@ -41,15 +41,6 @@
 }
 
 @media (max-width: 480px) {
-    .section-training {
-        height: 80vh;
-    }
-
-    .section-training div {
-        padding-top: 75px;
-        padding-bottom: 75px;
-    }
-
     .training {
         padding: 60px 20px 60px 20px;
         margin-left: 12px;

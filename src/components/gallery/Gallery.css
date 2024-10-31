@@ -35,9 +35,3 @@
 
 /* Responsive design */
 @media (max-width: 768px) {}
-
-@media (max-width: 480px) {
-    .section-gallery {
-        height: 195vh;
-    }
-}

@@ -73,10 +73,6 @@
 }
 
 @media (max-width: 480px) {
-    .section-about {
-        height: 80vh;
-    }
-
     .about {
         padding: 6px;
         padding-top: 50px;
