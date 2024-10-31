@@ -9,7 +9,7 @@ const Footer = () => {
     const currentYear = new Date().getFullYear();
 
     // openInNewTab function
-    const openInNewTab = (url) => {
+    const openInNewTab = (url) => { 
         const win = window.open(url, '_blank');
         win.focus();
     };
