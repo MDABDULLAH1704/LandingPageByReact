@@ -1,36 +1,36 @@
 {
-  "name": "LandingPageByReact",
-  "bucket": "LandingPageByReact",
+  "name": "LandingPageByReact02",
+  "bucket": "LandingPageByReact02",
   "preset": "react",
   "env": "production",
-  "prefix": "20241029163301",
+  "prefix": "20241031150413",
   "not-first-run": true,
   "function": {
-    "id": 31411,
+    "id": 31524,
     "name": "__DEFAULT__",
     "file": ".edge/worker.js",
     "args": "azion/args.json",
-    "instance-id": 30090,
+    "instance-id": 30199,
     "instance-name": "__DEFAULT__",
     "cache-id": 0
   },
   "application": {
-    "id": 1730212739,
+    "id": 1730383169,
     "name": "__DEFAULT__"
   },
   "domain": {
-    "id": 1730211264,
-    "name": "LandingPageByReact",
-    "domain_name": "yh845byydf.map.azionedge.net",
-    "url": "https://yh845byydf.map.azionedge.net"
+    "id": 1730381823,
+    "name": "LandingPageByReact02",
+    "domain_name": "or00nfmu8s.map.azionedge.net",
+    "url": "https://or00nfmu8s.map.azionedge.net"
   },
   "rt-purge": {
     "purge_on_publish": true
   },
   "origin": [
     {
-      "origin-id": 161195,
-      "origin-key": "9ec34b76-84a7-4a07-af21-3ec3ff843798",
+      "origin-id": 161765,
+      "origin-key": "0e9984fc-90d4-4e86-9762-cd09f28aadfe",
       "name": "origin-storage-default"
     }
   ],
@@ -38,17 +38,17 @@
     "created": false,
     "rules": [
       {
-        "id": 313223,
+        "id": 314321,
         "name": "Set Storage Origin for All Requests",
         "phase": "request"
       },
       {
-        "id": 313224,
+        "id": 314322,
         "name": "Deliver Static Assets",
         "phase": "request"
       },
       {
-        "id": 313225,
+        "id": 314323,
         "name": "Redirect to index.html",
         "phase": "request"
       }
