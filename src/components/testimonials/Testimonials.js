@@ -5,7 +5,7 @@ const Testimonials = () => {
     return (
         <section className='section-testimonials' id='section-testimonials'>
             <div className='testimonials'>
-                <h2> Customer Feedback </h2>
+                <h2>Customer Feedback</h2>
 
                 <div className="testimonials-div">
                     <div>
