@@ -9,7 +9,7 @@ const Contact = () => {
     return (
         <section className='section-contact' id='section-contact'>
             <div className='contact'>
-                <h2> Contact Us </h2>
+                <h2>Contact Us </h2>
 
                 <div className="contact-div">
                     <p><span><FaMapMarkerAlt /></span> 321 Steel City Way, Lafayette, CA 94549</p>
