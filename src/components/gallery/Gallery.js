@@ -7,7 +7,7 @@ import gallery4 from '../../assets/gallery4.jpeg'
 import gallery5 from '../../assets/gallery5.jpg'
 import gallery6 from '../../assets/gallery6.jpg'
 import AOS from 'aos'
-import 'aos/dist/aos.css'
+import 'aos/dist/aos.css' 
 
 const Gallery = () => {
     // For AOS Animation
