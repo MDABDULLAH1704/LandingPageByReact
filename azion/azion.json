@@ -1,6 +1,6 @@
 {
-  "name": "LandingPageByReact02",
-  "bucket": "LandingPageByReact02",
+  "name": "LandingPageByReact",
+  "bucket": "LandingPageByReact",
   "preset": "react",
   "env": "production",
   "prefix": "20241031150413",
@@ -20,9 +20,9 @@
   },
   "domain": {
     "id": 1730381823,
-    "name": "LandingPageByReact02",
-    "domain_name": "or00nfmu8s.map.azionedge.net",
-    "url": "https://or00nfmu8s.map.azionedge.net"
+    "name": "LandingPageByReact",
+    "domain_name": "yh845byydf.map.azionedge.net",
+    "url": "https://yh845byydf.map.azionedge.net/"
   },
   "rt-purge": {
     "purge_on_publish": true
