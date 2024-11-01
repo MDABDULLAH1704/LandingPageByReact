@@ -8,7 +8,7 @@
   "function": {
     "id": 31524,
     "name": "__DEFAULT__", 
-    "file": ".edge/worker.js",
+    "file": ".edge/worker.js", 
     "args": "azion/args.json",
     "instance-id": 30199,
     "instance-name": "__DEFAULT__",
