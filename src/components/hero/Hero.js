@@ -2,7 +2,7 @@ import React, { useEffect } from 'react'
 import './Hero.css'
 import heroImg from '../../assets/heroImg.png'
 import AOS from 'aos'
-import 'aos/dist/aos.css' 
+import 'aos/dist/aos.css'  
 
 const Hero = () => {
     // scrollToAbout function
