@@ -1,7 +1,7 @@
 {
   "name": "LandingPageByReact",
   "bucket": "LandingPageByReact",
-  "preset": "react",
+  "preset": "react", 
   "env": "production",
   "prefix": "20241031150413",
   "not-first-run": true,
