@@ -18,7 +18,7 @@ const Hero = () => {
         AOS.init({
             duration: 1000,
         });
-    }, []);
+    }, []); 
 
     return (
         <div className='hero' id='section-hero'>
