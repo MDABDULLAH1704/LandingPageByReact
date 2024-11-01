@@ -1,12 +1,12 @@
 {
-  "name": "assets",
+  "name": "LandingPageByReact",
   "bucket": "LandingPageByReact", 
   "preset": "react", 
   "env": "production",
   "prefix": "20241031145015",
   "not-first-run": true,
   "function": {
-    "id": 31524,
+    "id": 31411,
     "name": "__DEFAULT__", 
     "file": ".edge/worker.js", 
     "args": "azion/args.json",
@@ -15,11 +15,11 @@
     "cache-id": 0
   }, 
   "application": {
-    "id": 1730383169,
+    "id": 1730212739,
     "name": "__DEFAULT__"
   },
   "domain": {
-    "id": 1730381823,
+    "id": 1730211264,
     "name": "LandingPageByReact",
     "domain_name": "yh845byydf.map.azionedge.net",
     "url": "https://yh845byydf.map.azionedge.net/"
