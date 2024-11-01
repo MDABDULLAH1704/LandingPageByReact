@@ -1,9 +1,9 @@
 {
-  "name": "LandingPageByReact",
-  "bucket": "", 
+  "name": "assets",
+  "bucket": "LandingPageByReact", 
   "preset": "react", 
   "env": "production",
-  "prefix": "20241031150413",
+  "prefix": "20241031145015",
   "not-first-run": true,
   "function": {
     "id": 31524,
