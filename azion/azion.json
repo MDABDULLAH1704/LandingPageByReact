@@ -11,9 +11,9 @@
     "file": ".edge/worker.js", 
     "args": "azion/args.json",
     "instance-id": 30199,
-    "instance-name": "__DEFAULT__",
+    "instance-name": "__DEFAULT__", 
     "cache-id": 0
-  },
+  }, 
   "application": {
     "id": 1730383169,
     "name": "__DEFAULT__"
