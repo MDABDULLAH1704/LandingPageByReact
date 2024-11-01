@@ -7,7 +7,7 @@
   "not-first-run": true,
   "function": {
     "id": 31524,
-    "name": "__DEFAULT__",
+    "name": "__DEFAULT__", 
     "file": ".edge/worker.js",
     "args": "azion/args.json",
     "instance-id": 30199,
