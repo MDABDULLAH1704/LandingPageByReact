@@ -20,7 +20,7 @@ const Testimonials = () => {
 
             <div className="testimonials-div" data-aos="zoom-in">
                 <div data-aos="fade" data-aos-delay="300">
-                    <p>"Joining Fitness GYM was one of the best decisions I've ever made! The trainers are incredibly supportive and have tailored a program just for me. I love the variety of classes offered, and I've never felt more motivated. This place truly feels like a community and everyone lifts each other up!"</p>
+                    <p>"Joining Fitness GYM was one of the best decisions I've made! The trainers are incredibly supportive and have tailored a program for me. I love the variety of classes offered, and I've never felt more motivated. This place feels like a community, and everyone lifts each other up!"</p>
                     <h3>Riya <img src={testimonials1} /></h3>
                 </div>
 
