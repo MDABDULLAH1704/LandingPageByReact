@@ -3,14 +3,14 @@
   "bucket": "LandingPageByReact", 
   "preset": "react", 
   "env": "production",
-  "prefix": "20241031145015",
+  "prefix": "20241029163301",
   "not-first-run": true,
   "function": {
     "id": 31411,
     "name": "__DEFAULT__", 
     "file": ".edge/worker.js", 
     "args": "azion/args.json",
-    "instance-id": 30199,
+    "instance-id": 30090,
     "instance-name": "__DEFAULT__", 
     "cache-id": 0
   }, 
@@ -29,8 +29,8 @@
   },
   "origin": [
     {
-      "origin-id": 161765,
-      "origin-key": "0e9984fc-90d4-4e86-9762-cd09f28aadfe",
+      "origin-id": 161195,
+      "origin-key": "9ec34b76-84a7-4a07-af21-3ec3ff843798",
       "name": "origin-storage-default"
     }
   ],
@@ -38,17 +38,17 @@
     "created": false,
     "rules": [
       {
-        "id": 314321,
+        "id": 313223,
         "name": "Set Storage Origin for All Requests",
         "phase": "request"
       },
       {
-        "id": 314322,
+        "id": 313224,
         "name": "Deliver Static Assets",
         "phase": "request"
       },
       {
-        "id": 314323,
+        "id": 313225,
         "name": "Redirect to index.html",
         "phase": "request"
       }
